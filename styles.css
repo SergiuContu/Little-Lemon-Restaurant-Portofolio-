@@ -143,6 +143,7 @@ ul li{
 
 section{
     display: flex;
+    flex-direction:column;
 }
 
 
@@ -197,7 +198,7 @@ article{
 .opening{
     margin-top: 5px;
     margin-left: 10px;
-    width: auto; 
+    width: 100%; 
     height: auto;
     padding: 15px;
     font-family: 'Lexend Deca', sans-serif; 
